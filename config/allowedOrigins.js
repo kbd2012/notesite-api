@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://notesite-api.onrender.com'
+    'https://notesite.onrender.com'
 ]
 
 module.exports = allowedOrigins
